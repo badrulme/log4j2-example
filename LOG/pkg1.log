@@ -1,0 +1,4 @@
+2023-02-03 15:04:23 TRACE HelloController:14 - *** trace: HelloController.sayHello() - start ***
+2023-02-03 15:04:23 DEBUG HelloController:15 - *** debug: HelloController.sayHello() - start ***
+2023-02-03 15:04:23 INFO  HelloController:16 - *** info: HelloController.sayHello() - start ***
+2023-02-03 15:04:23 WARN  HelloController:17 - *** warn: HelloController.sayHello() - start ***

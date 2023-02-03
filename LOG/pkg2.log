@@ -1,0 +1,5 @@
+2023-02-03 15:04:33 DEBUG HiController:15 - *** debug: HiController.sayHi() - start ***
+2023-02-03 15:04:33 INFO  HiController:16 - *** info: HiController.sayHi() - start ***
+2023-02-03 15:04:33 WARN  HiController:17 - *** warn: HiController.sayHi() - start ***
+2023-02-03 15:04:33 ERROR HiController:18 - *** error: HiController.sayHi() - start ***
+2023-02-03 15:04:33 FATAL HiController:19 - *** fatal: HiController.sayHi() - start ***
