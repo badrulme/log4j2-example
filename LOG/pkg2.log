@@ -3,3 +3,18 @@
 2023-02-03 15:04:33 WARN  HiController:17 - *** warn: HiController.sayHi() - start ***
 2023-02-03 15:04:33 ERROR HiController:18 - *** error: HiController.sayHi() - start ***
 2023-02-03 15:04:33 FATAL HiController:19 - *** fatal: HiController.sayHi() - start ***
+2023-02-03 17:28:31 DEBUG HiController:15 - *** debug: HiController.sayHi() - start ***
+2023-02-03 17:28:31 INFO  HiController:16 - *** info: HiController.sayHi() - start ***
+2023-02-03 17:28:31 WARN  HiController:17 - *** warn: HiController.sayHi() - start ***
+2023-02-03 17:28:31 ERROR HiController:18 - *** error: HiController.sayHi() - start ***
+2023-02-03 17:28:31 FATAL HiController:19 - *** fatal: HiController.sayHi() - start ***
+2023-02-03 17:32:13 DEBUG HiController:15 - *** debug: HiController.sayHi() - start ***
+2023-02-03 17:32:13 INFO  HiController:16 - *** info: HiController.sayHi() - start ***
+2023-02-03 17:32:13 WARN  HiController:17 - *** warn: HiController.sayHi() - start ***
+2023-02-03 17:32:13 ERROR HiController:18 - *** error: HiController.sayHi() - start ***
+2023-02-03 17:32:13 FATAL HiController:19 - *** fatal: HiController.sayHi() - start ***
+[2023-02-03 17:39:51.775] [DEBUG] [com.example.demo.package2.HiController.sayHi()] - *** debug: HiController.sayHi() - start ***
+[2023-02-03 17:39:51.775] [INFO ] [com.example.demo.package2.HiController.sayHi()] - *** info: HiController.sayHi() - start ***
+[2023-02-03 17:39:51.775] [WARN ] [com.example.demo.package2.HiController.sayHi()] - *** warn: HiController.sayHi() - start ***
+[2023-02-03 17:39:51.775] [ERROR] [com.example.demo.package2.HiController.sayHi()] - *** error: HiController.sayHi() - start ***
+[2023-02-03 17:39:51.775] [FATAL] [com.example.demo.package2.HiController.sayHi()] - *** fatal: HiController.sayHi() - start ***

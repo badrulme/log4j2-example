@@ -2,3 +2,15 @@
 2023-02-03 15:04:23 DEBUG HelloController:15 - *** debug: HelloController.sayHello() - start ***
 2023-02-03 15:04:23 INFO  HelloController:16 - *** info: HelloController.sayHello() - start ***
 2023-02-03 15:04:23 WARN  HelloController:17 - *** warn: HelloController.sayHello() - start ***
+2023-02-03 17:28:30 TRACE HelloController:14 - *** trace: HelloController.sayHello() - start ***
+2023-02-03 17:28:30 DEBUG HelloController:15 - *** debug: HelloController.sayHello() - start ***
+2023-02-03 17:28:30 INFO  HelloController:16 - *** info: HelloController.sayHello() - start ***
+2023-02-03 17:28:30 WARN  HelloController:17 - *** warn: HelloController.sayHello() - start ***
+2023-02-03 17:32:14 TRACE HelloController:14 - *** trace: HelloController.sayHello() - start ***
+2023-02-03 17:32:14 DEBUG HelloController:15 - *** debug: HelloController.sayHello() - start ***
+2023-02-03 17:32:14 INFO  HelloController:16 - *** info: HelloController.sayHello() - start ***
+2023-02-03 17:32:14 WARN  HelloController:17 - *** warn: HelloController.sayHello() - start ***
+[2023-02-03 17:39:30.823] [http-nio-8080-exec-1] [TRACE] [com.example.demo.package1.HelloController.sayHello()] - *** trace: HelloController.sayHello() - start ***
+[2023-02-03 17:39:30.823] [http-nio-8080-exec-1] [DEBUG] [com.example.demo.package1.HelloController.sayHello()] - *** debug: HelloController.sayHello() - start ***
+[2023-02-03 17:39:30.823] [http-nio-8080-exec-1] [INFO ] [com.example.demo.package1.HelloController.sayHello()] - *** info: HelloController.sayHello() - start ***
+[2023-02-03 17:39:30.824] [http-nio-8080-exec-1] [WARN ] [com.example.demo.package1.HelloController.sayHello()] - *** warn: HelloController.sayHello() - start ***

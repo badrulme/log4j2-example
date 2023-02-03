@@ -1,2 +1,8 @@
 2023-02-03 15:04:23 ERROR HelloController:18 - *** error: HelloController.sayHello() - start ***
 2023-02-03 15:04:23 FATAL HelloController:19 - *** fatal: HelloController.sayHello() - start ***
+2023-02-03 17:28:30 ERROR HelloController:18 - *** error: HelloController.sayHello() - start ***
+2023-02-03 17:28:30 FATAL HelloController:19 - *** fatal: HelloController.sayHello() - start ***
+2023-02-03 17:32:14 ERROR HelloController:18 - *** error: HelloController.sayHello() - start ***
+2023-02-03 17:32:14 FATAL HelloController:19 - *** fatal: HelloController.sayHello() - start ***
+[2023-02-03 17:39:30.824] [http-nio-8080-exec-1] [ERROR] [com.example.demo.package1.HelloController.sayHello()] - *** error: HelloController.sayHello() - start ***
+[2023-02-03 17:39:30.826] [http-nio-8080-exec-1] [FATAL] [com.example.demo.package1.HelloController.sayHello()] - *** fatal: HelloController.sayHello() - start ***
